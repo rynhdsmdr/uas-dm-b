@@ -10,9 +10,9 @@ cara menjalankan program :
      https://drive.google.com/file/d/1KqVPPon6FaLwOeNZHWdMj_AvUr1ml2df/view?usp=drive_link
 
   2. clone kode program dengan queri berikut :
-     git clone  
+     git clone https://github.com/rynhdsmdr/uas-dm-b.git
   
-  4. setelah nya unduh semua library yang diperlukan dengan query beriku :
+  4. setelah nya unduh semua library yang diperlukan dengan query berikut :
      pip install -r requirements.txt
 
-  3, kemudian jalankan kode program 
+  5. kemudian jalankan kode program 
